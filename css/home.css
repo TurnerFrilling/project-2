@@ -2,7 +2,28 @@
 /* CSS Document */
 
 .nav {
-	padding: 20px;
 	color: white;
 	background-color: rgb(74, 51, 44) !important;
+
+}
+.button {
+	background-color: rgb(74, 51, 44) !important;;
+
+}
+.container-fluid{
+	background-color: rgb(74, 51, 44) !important;
+}
+.navbar-brand{
+	color:white !important;
+}
+.navbar-toggler-icon{
+	color:rgb(74, 51, 44) !important;
+}
+.nav-link{
+	color:rgb(255, 255, 255) !important;
+	background-color: rgb(74, 51, 44) !important;
+	
+}
+.navbar-nav{
+	align-items: right;
 }
