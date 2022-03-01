@@ -1,6 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body{
+	background-image: url(../images/paper\ back\ ground.jpg);
+	background-size:cover;
+	background-color: rgb(74, 51, 44);
+}
+
 .nav {
 	color: white;
 	background-color: rgb(74, 51, 44) !important;
@@ -26,4 +32,11 @@
 }
 .navbar-nav{
 	align-items: right;
+}
+.carousel-control-next-icon{
+	background-color:black;
+}
+
+.carousel-control-prev-icon{
+	background-color:black;
 }
