@@ -14,6 +14,18 @@ body{
 .container-fluid{
 	background-color: rgb(74, 51, 44) !important;
 }
+.nav {
+	color: white;
+	background-color: rgb(74, 51, 44) !important;
+
+}
+.button {
+	background-color: rgb(74, 51, 44) !important;;
+
+}
+.container-fluid{
+	background-color: rgb(74, 51, 44) !important;
+}
 .navbar-brand{
 	color:white !important;
 }
@@ -23,16 +35,11 @@ body{
 .nav-link{
 	color:rgb(255, 255, 255) !important;
 	background-color: rgb(74, 51, 44) !important;
-	
+	font-size: 20px;
 }
 .navbar-nav{
 	align-items: right;
-}.display: flex;
-  flex-direction: row;
-  font-size: 30px;
-  text-align: center;
 }
-
 .flex-item-left {
   background-color: #f1f1f1;
   padding: 10px;
@@ -42,6 +49,9 @@ body{
 .flex-container {
     display: flex;
     flex-direction: row;
+  }
+  .row{
+    font-size: 30px;
   }
   
   /* Responsive layout - makes a one column layout instead of a two-column layout */
