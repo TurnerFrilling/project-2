@@ -27,8 +27,7 @@ body{
 }
 .navbar-nav{
 	align-items: right;
-
-display: flex;
+}.display: flex;
   flex-direction: row;
   text-align: center;
 }
