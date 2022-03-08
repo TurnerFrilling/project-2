@@ -40,3 +40,8 @@ body{
 .carousel-control-prev-icon{
 	background-color:black;
 }
+.col-sm-8{
+	padding: 20px;
+	color: #fff;
+	background-color:rgb(74, 51, 44) ;
+}
