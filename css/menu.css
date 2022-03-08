@@ -1,7 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
-
+.container{
+    padding: auto;
+}
 body{
     background-image: url(../images/paper\ back\ ground.jpg);
 }
@@ -42,5 +44,6 @@ h1{
 
 @media screen and (max-width: 600px) {
 
- }   
+}
+   
 
