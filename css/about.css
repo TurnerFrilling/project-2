@@ -27,14 +27,12 @@ body{
 }
 .navbar-nav{
 	align-items: right;
-
-display: flex;
+}.display: flex;
   flex-direction: row;
+  font-size: 30px;
   text-align: center;
 }
-.row{
-       width: 50%;
-   }
+
 .flex-item-left {
   background-color: #f1f1f1;
   padding: 10px;
